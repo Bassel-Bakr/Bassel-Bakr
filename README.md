@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋 I'm Bassel-Bakr  <br><br>🔭 I’m currently working on cool ASP.NET Core apps with Angular frontends  <br>👯 I’m looking to collaborate on open-source web projects and game dev experiments  <br>🤝 I’m looking for help with optimizing authentication & session handling in .NET  <br>🌱 I’m currently learning advanced cloud deployment and performance tuning  <br>💬 Ask me about ASP.NET, Angular, Power BI integration, or FPS aim training setups 🎮  <br>⚡ Fun fact: My shipments sometimes go on tourism trips before reaching me ✈️😂  
+### Hi there 👋 I'm Bassel Bakr  <br><br>🔭 I’m currently working on cool ASP.NET Core apps with Angular frontends  <br>👯 I’m looking to collaborate on open-source web projects and game dev experiments  <br>🤝 I’m looking for help with optimizing authentication & session handling in .NET  <br>🌱 I’m currently learning advanced cloud deployment and performance tuning  <br>💬 Ask me about ASP.NET, Angular, Power BI integration, or FPS aim training setups 🎮  <br>⚡ Fun fact: My shipments sometimes go on tourism trips before reaching me ✈️😂  
 
 
 # 💻 Tech Stack:
