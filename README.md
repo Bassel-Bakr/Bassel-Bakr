@@ -1,14 +1,41 @@
-# 💫 About Me:
-### Hi there 👋 I'm Bassel Bakr  <br><br>🔭 I’m currently working on cool ASP.NET Core apps with Angular frontends  <br>👯 I’m looking to collaborate on open-source web projects and game dev experiments  <br>🤝 I’m looking for help with optimizing authentication & session handling in .NET  <br>🌱 I’m currently learning advanced cloud deployment and performance tuning  <br>💬 Ask me about ASP.NET, Angular, Power BI integration, or FPS aim training setups 🎮  <br>⚡ Fun fact: My shipments sometimes go on tourism trips before reaching me ✈️😂  
+# Bassel Bakr
 
+Software engineering team lead at [C3S Software](https://c3ssoftware.com) in Cairo. I build web apps with ASP.NET Core and Angular. Outside work I write desktop tools in Rust, practice aim training and solve competitive programming problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[LinkedIn](https://linkedin.com/in/basselbakr) · [Codeforces](https://codeforces.com/profile/Bassel) · [Aim wiki](https://bassel-bakr.github.io/aim/)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Bassel-Bakr&theme=dark&hide_border=false)<br/>
+## Now
 
----
-[![](https://visitcount.itsvg.in/api?id=Bassel-Bakr&icon=0&color=0)](https://visitcount.itsvg.in)
+- Leading a team of 2 to 4 engineers that builds client web apps on ASP.NET Core with Angular front ends.
+- Learning cloud deployment and performance tuning.
+- Open to collaborating on open-source web projects and game dev experiments.
+- Ask me about ASP.NET Core, Angular, Power BI integration or FPS aim-training setups.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Projects
+
+**[KovOBS](https://github.com/Bassel-Bakr/KovOBS)** · Rust, Tauri, Angular, FFmpeg<br>
+Watches KovaaK's and Aimbeast stats files. When a run finishes, it tells OBS over WebSocket to save the replay buffer, trims the clip with FFmpeg and embeds the run's stats in the clip's metadata. Runs from the tray on Windows and Linux.
+
+**[Aim wiki](https://bassel-bakr.github.io/aim/)** · [source](https://github.com/Bassel-Bakr/aim)<br>
+A wiki on aim training.
+
+**Android root tools on XDA Developers** · Java, Xposed, 2013 to 2020
+- [Window Manipulator](https://www.xda-developers.com/window-manipulator/) changes display density, size and overscan without a reboot. The XDA portal featured it.
+- [Andy Log](https://xdaforums.com/t/app-root-4-0-andy-log-spare-yourself-logging-scenarios.2910334/) collects logcat, dmesg, kmsg and other logs into one bug-report file.
+- [ZIT Flasher](https://xdaforums.com/t/app-2-2-root-zit-flasher-zip-img-tar-everything-flasher.2407368/) flashes and backs up boot and recovery images without rebooting into recovery.
+
+## Competitive programming
+
+- Codeforces: peak rating 2080 (Candidate Master), 1,800+ problems solved.
+- IEEEXtreme 12.0 (2018): 23rd of 4,000+ teams worldwide and 1st in Egypt, with team AzharPlusPlus.
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,rust,tauri,cpp,py,java,mysql,sqlite,vite,linux,git)](https://skillicons.dev)
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Bassel-Bakr&theme=dark&hide_border=true">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Bassel-Bakr&hide_border=true">
+</picture>
